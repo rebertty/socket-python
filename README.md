@@ -2,10 +2,6 @@
 
 Aluno: Rebertty Macedo da Silva
 
-#############################
-
-
-
 
 
 # Passos
